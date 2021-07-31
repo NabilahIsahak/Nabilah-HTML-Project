@@ -1,0 +1,78 @@
+body{
+	margin:0;
+	padding: 0;
+	background-size: cover;
+	background-color: #DDC83D ;
+	background-position: center;
+	height: 100;
+	background-repeat: no-repeat;
+	font-family: verdana;
+}
+	h1 {text-align: center;}
+	p {text-align: center;}
+	div {text-align: center;
+}
+.navbar li{
+	display: inline-table;
+}
+body {
+  margin: 0;
+  font-family: verdana;
+}
+
+.topnav {
+  overflow: hidden;
+  
+}
+
+.topnav a {
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 12px 17px;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+.topnav a:hover {
+  background-color: navy;
+  color:white;
+}
+
+.topnav a.active {
+  background-color: black ;
+  color:white;
+}
+
+.topnav-right {
+  float: right;
+}
+</style>
+
+<style>
+body {margin:30px;}
+
+div.polaroid {
+  float:left;
+  width: 30%;
+  color: white;
+  background-color: black ;
+  box-shadow: 0 4px 20px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0, 19);
+  margin-bottom: 20px;
+  margin: 30px 0px 0px 20px;
+  padding-right: 0px;
+  margin-right: 5px;
+  margin-left: 150px;
+}
+
+div.container {
+  text-align: center;
+  padding: 12px 20px;
+
+}
+</style>
+<body>
+
+
+
+
